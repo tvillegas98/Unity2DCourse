@@ -108,7 +108,33 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Spikes_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -11, y: -3.5}
+        - {x: -14, y: -8.5}
+        - {x: 14, y: -8.5}
+        - {x: 10, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02533d3b6a8974ea680ca69056928934
+      internalID: 1244585037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +145,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spikes_0: 1434887945
+      Spikes_1: -1020202509
+      Spikes_2: 1244585037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
